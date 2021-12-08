@@ -14,3 +14,5 @@
   - Maria DB
 ## Info
 대학교 데이터베이스 수업에서 개발한 프로젝트로 본인 외 팀원 세명과 작업하였습니다.
+## 데모영상
+![아!카페 앱 demo](https://user-images.githubusercontent.com/80162233/145239401-283776cd-a49e-434a-b444-0847aefb72bb.gif)
